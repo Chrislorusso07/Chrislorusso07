@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chris-lorusso-790704213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chris-lorusso-790704213/" height="30" width="40" /></a><h1 align="center">Hi/Buenas 👋, I'm/Soy Chris</h1>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chris-lorusso-790704213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chris-lorusso-790704213/" height="30" width="40" /></a>
 
 - 📫 How to reach me **chrisdlorusso@gmail.com**
 
